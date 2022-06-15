@@ -1,0 +1,8 @@
+export const ADD_DATA = "ADD_DATA";
+export const ADD_DATA_SUCCUSS = "ADD_DATA_SUCCUSS";
+export const DELETE_DATA = "DELETE_DATA";
+export const DELETE_DATA_SUCCUSS = "DELETE_DATA_SUCCUSS";
+export const EDIT_DATA = "EDIT_DATA";
+export const EDIT_DATA_SUCCUSS = "EDIT_DATA_SUCCUSS";
+export const UPDATE_DATA = "UPDATE_DATA";
+export const UPDATE_DATA_SUCCESS = "UPDATE_DATA_SUCCESS";
